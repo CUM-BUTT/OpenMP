@@ -1,0 +1,4 @@
+﻿  OpenMP.cpp
+C:\Users\ilya-\source\repos\OpenMP\OpenMP\OpenMP.cpp(16,19): warning C4101: i: неиспользованная локальная переменная
+C:\Users\ilya-\source\repos\OpenMP\OpenMP\OpenMP.cpp(31,24): warning C4018: <: несоответствие типов со знаком и без знака
+  OpenMP.vcxproj -> C:\Users\ilya-\source\repos\OpenMP\Debug\OpenMP.exe

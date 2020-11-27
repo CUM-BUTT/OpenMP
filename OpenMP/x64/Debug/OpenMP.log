@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\ilya\Desktop\OpenMP\OpenMP\OMPLock.h(9,39): warning C4101: left: неиспользованная локальная переменная
+C:\Users\ilya\Desktop\OpenMP\OpenMP\OMPLock.h(9,45): warning C4101: right: неиспользованная локальная переменная
+C:\Users\ilya\Desktop\OpenMP\OpenMP\OMPLock.h(7): warning C4101: left: неиспользованная локальная переменная
+C:\Users\ilya\Desktop\OpenMP\OpenMP\OMPLock.h(7): warning C4101: right: неиспользованная локальная переменная
+C:\Users\ilya\Desktop\OpenMP\OpenMP\OMPRecursionSection.h(40,34): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\ilya\Desktop\OpenMP\OpenMP\OMPif.h(40,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\ilya\Desktop\OpenMP\OpenMP\main.cpp(27,8): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ilya\Desktop\OpenMP\OpenMP\main.cpp(28,11): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  OpenMP.vcxproj -> C:\Users\ilya\Desktop\OpenMP\x64\Debug\OpenMP.exe
